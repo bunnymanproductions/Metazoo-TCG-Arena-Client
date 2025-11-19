@@ -193,8 +193,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
-            "noQuickActions": true,
-            "enterSpun": false
+            "noQuickActions": true
           },
           "Spells_2": {
             "title": "Spells_2",
@@ -209,8 +208,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
-            "noQuickActions": true,
-            "enterSpun": false
+            "noQuickActions": true
           },
           "Spells_3": {
             "title": "Spells_3",
@@ -225,8 +223,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
-            "noQuickActions": true,
-            "enterSpun": false
+            "noQuickActions": true
           },
           "Spells_4": {
             "title": "Spells_4",
@@ -241,8 +238,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
-            "noQuickActions": true,
-            "enterSpun": false
+            "noQuickActions": true
           },
           "Spells_5": {
             "title": "Spells_5",
@@ -257,8 +253,7 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
-            "noQuickActions": true,
-            "enterSpun": false
+            "noQuickActions": true
           },
           "Monsters_1": {
             "title": "Monsters_1",
@@ -273,8 +268,7 @@
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           },
           "Monsters_2": {
             "title": "Monsters_2",
@@ -289,8 +283,7 @@
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           },
           "Monsters_3": {
             "title": "Monsters_3",
@@ -305,8 +298,7 @@
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           },
           "Monsters_4": {
             "title": "Monsters_4",
@@ -321,8 +313,7 @@
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           },
           "Monsters_5": {
             "title": "Monsters_5",
@@ -337,8 +328,7 @@
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           },
           "Extra_Monster_1": {
             "title": "Extra_Monster_1",
@@ -353,8 +343,7 @@
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           },
           "Extra_Monster_2": {
             "title": "Extra_Monster_2",
@@ -369,8 +358,7 @@
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           },
           "Field": {
             "title": "Field",
@@ -385,8 +373,7 @@
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false,
-            "enterSpun": false
+            "showHiddenCardInHistory": false
           },
           "Extra_Deck": {
             "title": "Extra_Deck",
@@ -399,7 +386,6 @@
             "displayedTitle": "",
             "noQuickActions": false,
             "enterTapped": false,
-            "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
