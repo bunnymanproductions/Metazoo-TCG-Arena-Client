@@ -198,7 +198,7 @@
           "Lane_1": {
             "title": "Lane_1",
             "isHidden": "yes",
-            "height": "LARGE",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -213,7 +213,7 @@
           "Lane_2": {
             "title": "Lane_2",
             "isHidden": "yes",
-            "height": "LARGE",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -228,7 +228,7 @@
           "Lane_3": {
             "title": "Lane_3",
             "isHidden": "yes",
-            "height": "LARGE",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -243,7 +243,7 @@
           "Lane_4": {
             "title": "Lane_4",
             "isHidden": "yes",
-            "height": "LARGE",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -273,7 +273,7 @@
           "Aura_Deck": {
             "title": "Aura Deck",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
