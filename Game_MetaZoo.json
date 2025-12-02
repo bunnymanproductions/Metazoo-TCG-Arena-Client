@@ -64,7 +64,7 @@
           "Lane_4",
           "Caster",
           "Aura_Deck",
-          "Primary_Aura"
+          "Aura_Zone"
         ],
         "layout": {
           "direction": "row",
@@ -148,7 +148,7 @@
               },
               "content": [
                 {
-                  "section": "Primary_Aura",
+                  "section": "Aura_Zone",
                   "style": false
                 }
               ],
@@ -279,20 +279,22 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Aura Deck",
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Primary_Aura": {
-            "title": "Primary Aura",
+          "Aura_Zone": {
+            "title": "Aura Zone",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Primary Aura",
+            "displayedTitle": "Aura Zone",
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
