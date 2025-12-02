@@ -159,9 +159,7 @@
         "categoriesAlreadyOnBoard": [
           "Extra deck->ExileHidden"
         ],
-        "autoPlayFromHand": {
-          "*": ["Caster", "Aura_Deck", "Primary_Aura", "Terra_1", "Terra_2", "Lane_1", "Lane_2", "Lane_3", "Lane_4"]
-        },
+        "autoPlayFromHand": {},
         "autoPlayFromStack": {
           "Trap": "Discard",
           "Spell": "Discard"
@@ -281,7 +279,6 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Aura Deck",
-            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
@@ -296,7 +293,6 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Primary Aura",
-            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
