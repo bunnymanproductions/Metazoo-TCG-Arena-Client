@@ -64,7 +64,6 @@
           "Lane_4",
           "Caster",
           "Counter",
-          "Aura",
           "Primary_Aura"
         ],
         "layout": {
@@ -78,7 +77,7 @@
                 {
                   "direction": "column",
                   "style": {
-                    "width": "32vh",
+                    "width": "20vh",
                     "marginRight": "8vh"
                   },
                   "content": [
@@ -86,14 +85,10 @@
                       "section": "Caster",
                       "style": false
                     },
-                    {
-                      "section": "Counter",
-                      "style": false
-                    },
-                    {
-                      "section": "Aura",
-                      "style": false
-                    }
+                {
+                  "section": "Counter",
+                  "style": false
+                }
                   ],
                   "isSymetricalForOpponents": false
                 },
@@ -173,7 +168,7 @@
           "Terra_1": {
             "title": "Terra_1",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -188,7 +183,7 @@
           "Terra_2": {
             "title": "Terra_2",
             "isHidden": "no",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
@@ -203,7 +198,7 @@
           "Lane_1": {
             "title": "Lane_1",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -218,7 +213,7 @@
           "Lane_2": {
             "title": "Lane_2",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -233,7 +228,7 @@
           "Lane_3": {
             "title": "Lane_3",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -248,7 +243,7 @@
           "Lane_4": {
             "title": "Lane_4",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -269,21 +264,6 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Caster",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false
-          },
-          "Aura": {
-            "title": "Aura",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": true,
-            "displayedTitle": "Aura",
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
