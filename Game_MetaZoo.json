@@ -175,7 +175,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Terra",
             "noQuickActions": true,
-            "enterTapped": false,
+            "enterTapped": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
@@ -190,7 +190,7 @@
             "isHorizontalAllowed": true,
             "displayedTitle": "Terra",
             "noQuickActions": true,
-            "enterTapped": false,
+            "enterTapped": true,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
@@ -279,7 +279,6 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Aura Deck",
-            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
@@ -294,7 +293,6 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Primary Aura",
-            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
