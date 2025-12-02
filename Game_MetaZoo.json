@@ -63,7 +63,6 @@
           "Lane_3",
           "Lane_4",
           "Caster",
-          "Counter",
           "Primary_Aura"
         ],
         "layout": {
@@ -84,11 +83,7 @@
                     {
                       "section": "Caster",
                       "style": false
-                    },
-                {
-                  "section": "Counter",
-                  "style": false
-                }
+                    }
                   ],
                   "isSymetricalForOpponents": false
                 },
@@ -198,7 +193,7 @@
           "Lane_1": {
             "title": "Lane_1",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "LARGE",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -213,7 +208,7 @@
           "Lane_2": {
             "title": "Lane_2",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "LARGE",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -228,7 +223,7 @@
           "Lane_3": {
             "title": "Lane_3",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "LARGE",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -243,7 +238,7 @@
           "Lane_4": {
             "title": "Lane_4",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "LARGE",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": "true",
@@ -264,21 +259,6 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Caster",
-            "noQuickActions": true,
-            "enterTapped": false,
-            "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
-            "showHiddenCardInHistory": false
-          },
-          "Counter": {
-            "title": "Aura Zone",
-            "isHidden": "no",
-            "height": "SMALL",
-            "alignment": "CENTER",
-            "opponentAlignment": false,
-            "noAutoPayTo": false,
-            "isHorizontalAllowed": false,
-            "displayedTitle": "Aura Zone",
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
