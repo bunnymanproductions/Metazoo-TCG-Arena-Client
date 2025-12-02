@@ -60,9 +60,14 @@
           "Monsters_2",
           "Monsters_3",
           "Monsters_4",
+          "Spells_1",
+          "Spells_2",
+          "Spells_3",
+          "Spells_4",
           "Extra_Monster_3",
           "Extra_Monster_4",
-          "Field"
+          "Caster",
+          "Aura"
         ],
         "layout": {
           "direction": "row",
@@ -76,7 +81,11 @@
               },
               "content": [
                 {
-                  "section": "Field",
+                  "section": "Caster",
+                  "style": false
+                },
+                {
+                  "section": "Aura",
                   "style": false
                 }
               ],
@@ -123,6 +132,29 @@
                     }
                   ],
                   "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Spells_1",
+                      "style": false
+                    },
+                    {
+                      "section": "Spells_2",
+                      "style": false
+                    },
+                    {
+                      "section": "Spells_3",
+                      "style": false
+                    },
+                    {
+                      "section": "Spells_4",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
                 }
               ],
               "isSymetricalForOpponents": false
@@ -138,6 +170,66 @@
           "Spell": "Discard"
         },
         "sectionsDict": {
+          "Spells_1": {
+            "title": "Spells_1",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Spell/Trap",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Spells_2": {
+            "title": "Spells_2",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Spell/Trap",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Spells_3": {
+            "title": "Spells_3",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Spell/Trap",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Spells_4": {
+            "title": "Spells_4",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Spell/Trap",
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
           "Monsters_1": {
             "title": "Monsters_1",
             "isHidden": "no",
@@ -228,15 +320,30 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Field": {
-            "title": "Field",
+          "Caster": {
+            "title": "Caster",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Field",
+            "displayedTitle": "Caster",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false
+          },
+          "Aura": {
+            "title": "Aura",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Aura",
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
