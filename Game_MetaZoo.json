@@ -159,7 +159,9 @@
         "categoriesAlreadyOnBoard": [
           "Extra deck->ExileHidden"
         ],
-        "autoPlayFromHand": {},
+        "autoPlayFromHand": {
+          "*": ["Caster", "Aura_Deck", "Primary_Aura", "Terra_1", "Terra_2", "Lane_1", "Lane_2", "Lane_3", "Lane_4"]
+        },
         "autoPlayFromStack": {
           "Trap": "Discard",
           "Spell": "Discard"
@@ -197,11 +199,11 @@
           },
           "Lane_1": {
             "title": "Lane_1",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
+            "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "Lane",
             "enterTapped": false,
@@ -212,11 +214,11 @@
           },
           "Lane_2": {
             "title": "Lane_2",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
+            "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "Lane",
             "enterTapped": false,
@@ -227,11 +229,11 @@
           },
           "Lane_3": {
             "title": "Lane_3",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
+            "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "Lane",
             "enterTapped": false,
@@ -242,11 +244,11 @@
           },
           "Lane_4": {
             "title": "Lane_4",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
-            "noAutoPayTo": "true",
+            "noAutoPayTo": false,
             "isHorizontalAllowed": false,
             "displayedTitle": "Lane",
             "enterTapped": false,
