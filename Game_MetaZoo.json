@@ -63,8 +63,8 @@
           "Lane_3",
           "Lane_4",
           "Caster",
-          "Aura_Deck",
-          "Aura_Zone"
+          "Area_1",
+          "Area_2"
         ],
         "layout": {
           "direction": "row",
@@ -86,7 +86,7 @@
                       "style": false
                     },
                     {
-                      "section": "Aura_Deck",
+                      "section": "Area_1",
                       "style": false
                     }
                   ],
@@ -148,7 +148,7 @@
               },
               "content": [
                 {
-                  "section": "Aura_Zone",
+                  "section": "Area_2",
                   "style": false
                 }
               ],
@@ -270,7 +270,7 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Aura_Deck": {
+          "Area_1": {
             "title": "Area 1",
             "isHidden": "no",
             "height": "SMALL",
@@ -279,13 +279,13 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Area 1",
-            "noQuickActions": true,
+            "noQuickActions": false,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Aura_Zone": {
+          "Area_2": {
             "title": "Area 2",
             "isHidden": "no",
             "height": "SMALL",
@@ -294,7 +294,7 @@
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
             "displayedTitle": "Area 2",
-            "noQuickActions": true,
+            "noQuickActions": false,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
