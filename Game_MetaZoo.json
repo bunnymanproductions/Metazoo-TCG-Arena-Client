@@ -1,5 +1,5 @@
 {
-  "name": "Yu-Gi-Oh",
+  "name": "MetaZoo",
   "menuBackgroundImage": "https://valcur.github.io/TCG-Arena-Yugioh/Images/banner.jpg",
   "defaultRessources": {
     "backgrounds": [
@@ -271,14 +271,14 @@
             "showHiddenCardInHistory": false
           },
           "Aura_Deck": {
-            "title": "Aura Deck",
+            "title": "Area 1",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Aura Deck",
+            "displayedTitle": "Area 1",
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
@@ -286,14 +286,14 @@
             "showHiddenCardInHistory": false
           },
           "Aura_Zone": {
-            "title": "Aura Zone",
+            "title": "Area 2",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Aura Zone",
+            "displayedTitle": "Area 2",
             "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
