@@ -63,8 +63,8 @@
           "Lane_3",
           "Lane_4",
           "Caster",
-          "Area_1",
-          "Area_2"
+          "Caster_2",
+          "Caster_3"
         ],
         "layout": {
           "direction": "row",
@@ -86,7 +86,7 @@
                       "style": false
                     },
                     {
-                      "section": "Area_1",
+                      "section": "Caster_2",
                       "style": false
                     }
                   ],
@@ -148,7 +148,7 @@
               },
               "content": [
                 {
-                  "section": "Area_2",
+                  "section": "Caster_3",
                   "style": false
                 }
               ],
@@ -270,31 +270,31 @@
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Area_1": {
-            "title": "Area 1",
+          "Caster_2": {
+            "title": "Caster",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Area 1",
-            "noQuickActions": false,
+            "displayedTitle": "Caster",
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false
           },
-          "Area_2": {
-            "title": "Area 2",
+          "Caster_3": {
+            "title": "Caster",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": false,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Area 2",
-            "noQuickActions": false,
+            "displayedTitle": "Caster",
+            "noQuickActions": true,
             "enterTapped": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
