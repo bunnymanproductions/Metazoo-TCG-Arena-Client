@@ -271,7 +271,7 @@
             "showHiddenCardInHistory": false
           },
           "Caster_2": {
-            "title": "Caster",
+            "title": "Caster_2",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
@@ -286,7 +286,7 @@
             "showHiddenCardInHistory": false
           },
           "Caster_3": {
-            "title": "Caster",
+            "title": "Caster_3",
             "isHidden": "no",
             "height": "SMALL",
             "alignment": "CENTER",
